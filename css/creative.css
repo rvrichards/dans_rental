@@ -68,6 +68,14 @@ section {
     padding: 100px 0;
 }
 
+documents {
+    padding: 100px 0;
+}
+
+things2do {
+    padding: 100px 0;
+}
+
 aside {
     padding: 50px 0;
 }
@@ -178,7 +186,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #000;
-    background-image: url(../img/tofino.jpg);
+    background-image: url(../img/tofino.png);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
